@@ -5,9 +5,9 @@
   
   <link href="/atom.xml" rel="self"/>
   
-  <link href="http://yoursite.com/"/>
+  <link href="https://github.com/mrvegetable554/"/>
   <updated>2020-02-19T14:13:53.319Z</updated>
-  <id>http://yoursite.com/</id>
+  <id>https://github.com/mrvegetable554/</id>
   
   <author>
     <name>易乖乖</name>
@@ -18,8 +18,8 @@
   
   <entry>
     <title>Hello World</title>
-    <link href="http://yoursite.com/2020/02/19/hello-world/"/>
-    <id>http://yoursite.com/2020/02/19/hello-world/</id>
+    <link href="https://github.com/mrvegetable554/2020/02/19/hello-world/"/>
+    <id>https://github.com/mrvegetable554/2020/02/19/hello-world/</id>
     <published>2020-02-19T14:13:53.319Z</published>
     <updated>2020-02-19T14:13:53.319Z</updated>
     

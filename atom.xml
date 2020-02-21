@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://github.com/mrvegetable554/"/>
-  <updated>2020-02-21T03:53:02.602Z</updated>
+  <updated>2020-02-21T13:09:13.056Z</updated>
   <id>https://github.com/mrvegetable554/</id>
   
   <author>
@@ -17,13 +17,67 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
-    <title>hello</title>
-    <link href="https://github.com/mrvegetable554/2020/02/21/hello/"/>
-    <id>https://github.com/mrvegetable554/2020/02/21/hello/</id>
-    <published>2020-02-21T03:53:02.602Z</published>
-    <updated>2020-02-21T03:53:02.602Z</updated>
+    <title>英语 Day3</title>
+    <link href="https://github.com/mrvegetable554/2020/02/21/%E8%8B%B1%E8%AF%AD-Day3/"/>
+    <id>https://github.com/mrvegetable554/2020/02/21/%E8%8B%B1%E8%AF%AD-Day3/</id>
+    <published>2020-02-21T12:12:07.000Z</published>
+    <updated>2020-02-21T13:09:13.056Z</updated>
+    
+    <content type="html"><![CDATA[<h3 id="英语day3打卡内容、"><a href="#英语day3打卡内容、" class="headerlink" title="英语day3打卡内容、"></a><center>英语day3打卡内容</center>、</h3><blockquote><p>1.发音&amp;听力  </p></blockquote><ul><li>1.1在音标中见<font  face="STCAIYUN" color='red' >th</font>要咬舌<font></li><li>1.2无<font  face="STCAIYUN" color='red' >r</font>不卷舌<font></li><li>1.3不完全爆破</li><li>1.4连读现象<blockquote><p>check  it  out<br>I can do it  </p></blockquote></li><li>1.5击穿现象(某些地方的h不发音)</li><li>1.6 KK发音法</li></ul><p>You can come to see us<br> 发音训练法：ABC<br>2.发音&amp;口语<br>3.发音&amp;考试及面试</p><figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br></pre></td><td class="code"><pre><span class="line">on campus在学校中</span><br><span class="line">off  campus 在校外</span><br></pre></td></tr></table></figure>]]></content>
     
     <summary type="html">
+    
+      
+      
+        &lt;h3 id=&quot;英语day3打卡内容、&quot;&gt;&lt;a href=&quot;#英语day3打卡内容、&quot; class=&quot;headerlink&quot; title=&quot;英语day3打卡内容、&quot;&gt;&lt;/a&gt;&lt;center&gt;英语day3打卡内容&lt;/center&gt;、&lt;/h3&gt;&lt;blockquote&gt;
+&lt;p&gt;1.发音
+      
+    
+    </summary>
+    
+    
+    
+  </entry>
+  
+  <entry>
+    <title>写给你</title>
+    <link href="https://github.com/mrvegetable554/2020/02/21/%E5%86%99%E7%BB%99%E4%BD%A0/"/>
+    <id>https://github.com/mrvegetable554/2020/02/21/%E5%86%99%E7%BB%99%E4%BD%A0/</id>
+    <published>2020-02-21T08:41:34.000Z</published>
+    <updated>2020-02-21T12:09:45.661Z</updated>
+    
+    <content type="html"><![CDATA[<h3 id="一篇写给你的信"><a href="#一篇写给你的信" class="headerlink" title="一篇写给你的信"></a><center><font color=red >一篇写给你的信</font></center></h3>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;h3 id=&quot;一篇写给你的信&quot;&gt;&lt;a href=&quot;#一篇写给你的信&quot; class=&quot;headerlink&quot; title=&quot;一篇写给你的信&quot;&gt;&lt;/a&gt;&lt;center&gt;&lt;font color=red &gt;一篇写给你的信&lt;/font&gt;&lt;/center&gt;&lt;/h3&gt;
+      
+    
+    </summary>
+    
+    
+    
+      <category term="-emotion" scheme="https://github.com/mrvegetable554/tags/emotion/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Hello World</title>
+    <link href="https://github.com/mrvegetable554/2020/02/19/hello-world/"/>
+    <id>https://github.com/mrvegetable554/2020/02/19/hello-world/</id>
+    <published>2020-02-19T14:13:53.319Z</published>
+    <updated>2020-02-19T14:13:53.319Z</updated>
+    
+    <content type="html"><![CDATA[<p>Welcome to <a href="https://hexo.io/" target="_blank" rel="noopener">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/" target="_blank" rel="noopener">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html" target="_blank" rel="noopener">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues">GitHub</a>.</p><h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo new <span class="string">"My New Post"</span></span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/writing.html" target="_blank" rel="noopener">Writing</a></p><h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/server.html" target="_blank" rel="noopener">Server</a></p><h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/generating.html" target="_blank" rel="noopener">Generating</a></p><h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/one-command-deployment.html" target="_blank" rel="noopener">Deployment</a></p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;Hexo&lt;/a&gt;! This is your very first post. Check &lt;a href=&quot;https://hexo.
+      
     
     </summary>
     
